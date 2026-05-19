@@ -7,27 +7,30 @@ This project simulates a real-world shopping platform where users can browse pro
 ---
 
 # Project Screenshots
+## Login Page
+
+![Home Page](https://github.com/GURRALA-HEMASRI/My-Ecommerce-website/blob/c82fa100e0767b5ba995db881af8527225b297e0/Screenshot%202026-05-19%20105655.png)
 
 ## Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](https://github.com/GURRALA-HEMASRI/My-Ecommerce-website/blob/c82fa100e0767b5ba995db881af8527225b297e0/Screenshot%202026-05-19%20105528.png)
 
 ## Product Listing
 ![Product Listing](./screenshots/products.png)
 
 ## Product Details
-![Product Details](./screenshots/product-details.png)
+![Product Details](https://github.com/GURRALA-HEMASRI/My-Ecommerce-website/blob/c82fa100e0767b5ba995db881af8527225b297e0/Screenshot%202026-05-19%20111647.png)
 
 ## Shopping Cart
-![Shopping Cart](./screenshots/cart.png)
+![Shopping Cart](https://github.com/GURRALA-HEMASRI/My-Ecommerce-website/blob/c82fa100e0767b5ba995db881af8527225b297e0/Screenshot%202026-05-19%20111742.png)
 
 ## Wishlist
 ![Wishlist](./screenshots/wishlist.png)
 
 ## Checkout Flow
-![Checkout Flow](./screenshots/checkout.png)
+![Checkout Flow](https://github.com/GURRALA-HEMASRI/My-Ecommerce-website/blob/c82fa100e0767b5ba995db881af8527225b297e0/Screenshot%202026-05-19%20110200.png)
 
 ## Orders Page
-![Orders Page](./screenshots/orders.png)
+![Orders Page](https://github.com/GURRALA-HEMASRI/My-Ecommerce-website/blob/c82fa100e0767b5ba995db881af8527225b297e0/Screenshot%202026-05-19%20111848.png)
 
 ---
 
