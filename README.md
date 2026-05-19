@@ -547,4 +547,3 @@ Potential production extensions:
 Gurrala Hemasri
 
 GitHub: https://github.com/GURRALA-HEMASRI 
-LinkedIn: linkedin.com/in/hemasrigurrala11
